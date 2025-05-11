@@ -19,7 +19,7 @@
 ## Penjelasan Studi Kasus
 <p>
     Sistem kasir transportasi umum untuk menghitung biaya perjalanan berdasarkan rute.
-    Ketika membuat transaksi baru pada pilihan menu, program akan menamplikan berbagai kendaraan yang tersedia.
+    Ketika membuat transaksi baru pada pilihan menu, program akan menampilkan berbagai kendaraan yang tersedia.
     Lalu input berapa banyak jumlah penumpang yang akan menaiki mobil.
     Jika penumpang melebihi kapasitas kendaraan yang pilih, maka akan memberikan pesan gagal.
     Langkah selanjutnya memilih rute mana yang akan dipilih.
@@ -169,6 +169,6 @@ public abstract class Kendaraan implements TransportasiUmum {
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Github: <a href="https://github.com/mochtars/UTS_PBO2_TIFK23B_23552011382">Mochtars</a></li>
+  <li>Google Drive: <a href="https://drive.google.com/file/d/1llLF-jXeSPGrK8T5u3EXU3s_C_N0sfQ-/view?usp=sharing">Demo Video</a></li>
 </ul>
